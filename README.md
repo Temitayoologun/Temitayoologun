@@ -22,10 +22,11 @@ Result-driven Data analyst with extensive experience in leveraging advanced anal
 ## 🌐 Where to find me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/temitayo-ologun/) 
 
 # 📊 GitHub Stats:
-<img align= "left" alt= "Coding" src= "https://github-readme-stats.vercel.app/api?username=Temitayoologun&theme=dark&hide_border=false&include_all_commits=false&count_private=false">
-<img align= "right" alt= "Coding" src= "https://github-readme-streak-stats.herokuapp.com/?user=Temitayoologun&theme=dark&hide_border=false">
 
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Temitayoologun&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Image 1" width="45%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Temitayoologun&theme=dark&hide_border=false" alt="Image 2" width="45%">
+</p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
