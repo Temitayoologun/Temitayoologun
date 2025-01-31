@@ -1,4 +1,4 @@
-<img align= "center" alt= "Coding" width="1000" height="300" src= "https://github.com/Temitayoologun/Temitayoologun/blob/main/README.png">
+<img align= "center" alt= "Coding" width="1000" height="300" src= "https://github.com/Temitayoologun/Temitayoologun/blob/main/github-header-image.png">
 
 # 💫 About Me:
 Result-driven Data analyst with extensive experience in leveraging advanced analytics, machine learning, and large-scale data processing to deliver actionable insights. 
@@ -22,11 +22,9 @@ Result-driven Data analyst with extensive experience in leveraging advanced anal
 ## 🌐 Where to find me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/temitayo-ologun/) 
 
 # 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Temitayoologun&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Image 1" width="45%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Temitayoologun&theme=dark&hide_border=false" alt="Image 2" width="45%">
-</p>
+![](https://github-readme-stats.vercel.app/api?username=Temitayoologun&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Temitayoologun&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Temitayoologun&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
